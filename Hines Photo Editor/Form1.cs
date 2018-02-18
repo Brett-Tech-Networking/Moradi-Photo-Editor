@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Drawing.Imaging;
 using System.IO;
@@ -189,6 +183,7 @@ namespace Hines_Photo_Editor
         private void button9_Click(object sender, EventArgs e)
         {
             openimage();
+            pictureBox1.Visible = true;
         }
 
         private void button8_Click(object sender, EventArgs e)
@@ -235,6 +230,53 @@ namespace Hines_Photo_Editor
         private void trackBar3_ValueChanged(object sender, EventArgs e)
         {
             hue();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+           
+            if (MessageBox.Show("This Will Delete Any Unsaved Changes, Do You Wish To Continue?", "Do You Want To Save?", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
+            {
+                saveImage();
+                pictureBox1.Visible = false;
+            }
+            else
+            {
+                //this does nothing
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void filter1ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            filter2();
+        }
+
+        private void filterToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            filter3();
+        }
+
+        private void infromationToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Information info = new Information();
+                info.Show();
+        }
+
+        private void openToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            openimage();
+            pictureBox1.Visible = true;
+            
+        }
+
+        private void saveToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            saveImage();
         }
     }
 }

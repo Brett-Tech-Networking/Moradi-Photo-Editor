@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hines Photo Editor", "Hines Photo Editor\Hines Photo Editor.csproj", "{EBD6A6C5-70CD-4916-A7C8-92009B6A0092}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moradi Photo Editor", "Hines Photo Editor\Moradi Photo Editor.csproj", "{EBD6A6C5-70CD-4916-A7C8-92009B6A0092}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

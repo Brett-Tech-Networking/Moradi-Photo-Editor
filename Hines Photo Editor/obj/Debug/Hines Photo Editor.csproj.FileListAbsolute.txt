@@ -8,3 +8,6 @@ c:\users\administrator\documents\visual studio 2015\Projects\Hines Photo Editor\
 c:\users\administrator\documents\visual studio 2015\Projects\Hines Photo Editor\Hines Photo Editor\obj\Debug\Hines Photo Editor.exe
 c:\users\administrator\documents\visual studio 2015\Projects\Hines Photo Editor\Hines Photo Editor\obj\Debug\Hines Photo Editor.pdb
 c:\users\administrator\documents\visual studio 2015\Projects\Hines Photo Editor\Hines Photo Editor\obj\Debug\Hines_Photo_Editor.Information.resources
+C:\Users\Administrator\Documents\GitHub\Hines-Photo-Editor\Hines Photo Editor\bin\Debug\Hines Photo Editor.exe.config
+C:\Users\Administrator\Documents\GitHub\Hines-Photo-Editor\Hines Photo Editor\obj\Debug\Hines Photo Editor.exe
+C:\Users\Administrator\Documents\GitHub\Hines-Photo-Editor\Hines Photo Editor\obj\Debug\Hines Photo Editor.pdb

@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\GitHub\Hines-Photo-Editor\Hines Photo Editor\bin\Debug\Hines Photo Editor.exe.config
+C:\Users\Administrator\Documents\GitHub\Hines-Photo-Editor\Hines Photo Editor\bin\Debug\Hines Photo Editor.exe
+C:\Users\Administrator\Documents\GitHub\Hines-Photo-Editor\Hines Photo Editor\bin\Debug\Hines Photo Editor.pdb
+C:\Users\Administrator\Documents\GitHub\Hines-Photo-Editor\Hines Photo Editor\obj\Debug\Hines_Photo_Editor.Form1.resources
+C:\Users\Administrator\Documents\GitHub\Hines-Photo-Editor\Hines Photo Editor\obj\Debug\Hines_Photo_Editor.Information.resources
+C:\Users\Administrator\Documents\GitHub\Hines-Photo-Editor\Hines Photo Editor\obj\Debug\Hines_Photo_Editor.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\Hines-Photo-Editor\Hines Photo Editor\obj\Debug\Moradi Photo Editor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\GitHub\Hines-Photo-Editor\Hines Photo Editor\obj\Debug\Hines Photo Editor.exe
+C:\Users\Administrator\Documents\GitHub\Hines-Photo-Editor\Hines Photo Editor\obj\Debug\Hines Photo Editor.pdb

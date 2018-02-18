@@ -60,12 +60,12 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Arial Rounded MT Bold", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(12, 107);
+            this.label3.Location = new System.Drawing.Point(40, 95);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(467, 34);
+            this.label3.Size = new System.Drawing.Size(393, 34);
             this.label3.TabIndex = 2;
-            this.label3.Text = "This tool was made for the porpuse of photoshopping images\r\n it was named after a" +
-    " friend who is not a better coder then me :)";
+            this.label3.Text = "This tool was made for the purpose of editing  images\r\nThis is a part of the Mora" +
+    "di OS Development software\r\n";
             this.label3.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // Information
